@@ -4,7 +4,7 @@
 
 int main()
 {
-    double x1,y1,x2,y2,b,b;
+    double x1,y1,x2,y2,c,b;
     double dist_1,dist_2,dist;
 
     printf("Enter the x1 and y1\n");
