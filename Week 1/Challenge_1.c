@@ -2,6 +2,7 @@
 
 int main()
 {
+	//var
 	char    First_name[20], Last_name[20], Sex[20];
 	int Age = 0, nbr_tele;
 	
